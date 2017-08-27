@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    android:orientation="vertical"
+    android:rowCount="3"
+    android:splitMotionEvents="false">
+
+
+    <TextView
+        android:includeFontPadding="false"
+        android:id="@+id/text_view_1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@drawable/single_text_view"
+        android:gravity="center"
+        android:textSize="100sp" />
+
+
+    <TextView
+        android:includeFontPadding="false"
+        android:id="@+id/text_view_2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@drawable/single_text_view"
+        android:gravity="center"
+        android:textSize="100sp" />
+
+
+    <TextView
+        android:includeFontPadding="false"
+        android:id="@+id/text_view_3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@drawable/single_text_view"
+        android:gravity="center"
+        android:textSize="100sp" />
+
+    <TextView
+        android:includeFontPadding="false"
+        android:id="@+id/text_view_4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@drawable/single_text_view"
+        android:gravity="center"
+        android:textSize="100sp" />
+
+    <TextView
+        android:includeFontPadding="false"
+        android:id="@+id/text_view_5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@drawable/single_text_view"
+        android:gravity="center"
+        android:textSize="100sp" />
+
+    <TextView
+        android:includeFontPadding="false"
+        android:id="@+id/text_view_6"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@drawable/single_text_view"
+        android:gravity="center"
+        android:textSize="100sp" />
+
+    <TextView
+        android:includeFontPadding="false"
+        android:id="@+id/text_view_7"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@drawable/single_text_view"
+        android:gravity="center"
+        android:textSize="100sp" />
+
+    <TextView
+        android:includeFontPadding="false"
+        android:id="@+id/text_view_8"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@drawable/single_text_view"
+        android:gravity="center"
+        android:textSize="100sp" />
+
+    <TextView
+        android:includeFontPadding="false"
+        android:id="@+id/text_view_9"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@drawable/single_text_view"
+        android:gravity="center"
+        android:textSize="100sp" />
+
+</GridLayout>
+
